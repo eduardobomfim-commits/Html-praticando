@@ -1,0 +1,13 @@
+header {
+    background-color: blue;  
+}
+header img {
+    width:200px;
+
+}
+#banner {
+    background: violet;
+}
+#novi  #img{
+    display:flex
+}
