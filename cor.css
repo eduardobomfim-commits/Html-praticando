@@ -1,0 +1,42 @@
+
+.caqui{
+    background-color: #BDB76B;
+}
+
+.cinza{
+     background-color: #696969;
+}
+
+.marrom {
+    background-color:#8B4513 ;
+} 
+.militar{
+ background-color:#333a0a ;   
+} 
+.oliva{
+    background-color:#494921 ;
+} 
+.bege{
+    background-color:#D2B48C ;  
+} 
+.vermelho{
+    background-color:#8B0000 ;
+} 
+.borda {
+    border:1px solid #696969;
+    
+}
+
+.tred:hover{
+        color: #F5F5F0 ;
+}
+    .tred{
+        color:  #696969;
+    border: 2px solid transparent;
+}
+.black{
+    background-color: rgb(14, 12, 12);
+}
+footer{
+    background-color: #A3B84C ;
+}
