@@ -1,0 +1,13 @@
+h1{
+    position: absolute;
+    top:70px;
+    padding-left:20px ;
+    color: #fff;
+    font-size: 100px;
+    line-height: 90px;
+}
+
+#divisoria{
+    background-color: aqua;
+    color: #fff;
+}
